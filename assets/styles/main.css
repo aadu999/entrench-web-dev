@@ -1,0 +1,27 @@
+.headh1{
+    color:green!;
+}
+
+.paraSpacing{
+    font-size: 20px;
+    color:red;
+    margin-left: 150px;
+    background-color: aqua;
+    padding-left: 20px;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+
+.imageAndPara{
+    background-color: black;
+    color:white;
+    font-weight: bold;
+}
+
+.imageAndPara img{
+    height: 200px;
+}
+
+img{
+    display: none;
+}
